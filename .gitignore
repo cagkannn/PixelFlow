@@ -1,0 +1,10 @@
+PixelFlow-Unity/Library/
+PixelFlow-Unity/Temp/
+PixelFlow-Unity/Obj/
+PixelFlow-Unity/Logs/
+PixelFlow-Unity/UserSettings/
+PixelFlow-Unity/Builds/
+PixelFlow-Unity/.vs/
+PixelFlow-Unity/*.csproj
+PixelFlow-Unity/*.sln
+PixelFlow-Unity/*.slnx

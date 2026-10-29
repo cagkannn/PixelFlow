@@ -1,0 +1,1 @@
+Oyun kuralları gerçek C# derleyicisiyle derlenip çalıştırıldı. Altı bölüm verilen UFO’larla çözüldü; 7.177 kontrol geçti. 10 Unity C# dosyası gerçek, eski Unity yönetilen başvuru dosyalarıyla derlendi. Unity 6.6 Editörü bu ortamda bulunmuyor; içe aktarma, görüntü ve etkileşimli Play denemesi burada çalıştırılmadı.

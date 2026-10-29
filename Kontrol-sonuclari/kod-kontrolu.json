@@ -1,0 +1,36 @@
+{
+  "syntaxLanguage": "C#7.3",
+  "sourceFiles": 10,
+  "syntaxErrors": 0,
+  "managedReferenceCompilation": {
+    "success": true,
+    "UnityEngine": "NuGet UnityEngine.Modules 2021.3.33 managed assemblies",
+    "UnityEditor": "NuGet Unity3D.SDK 2021.1.14.1 managed assembly",
+    "UI": "NuGet Defiant_Zombie.KSP.Skeleton.UnityEngine.UI 1.11.2 public API assembly",
+    "limitations": "Static compatibility check using older managed references; Unity 6.6 Editor import, package resolution, rendering, and interactive scene playback were not run."
+  },
+  "sourceHashes": {
+    "Assets/Editor/LevelDesignerWindow.cs": "4cbbe332a523e420abc2f713446d01578e899eb1d04c65efdadfd9fe1c9d8186",
+    "Assets/Editor/SceneSetup.cs": "dfcd3f51417f23d41f2a0767c465e2c9ed7c8af3610f8302900a282ba8d25f81",
+    "Assets/Scripts/Core/GameEngine.cs": "45586420a5aaea1756e001ee384aab24d0ec6ea42110754f120bf7c84e7f3f74",
+    "Assets/Scripts/Core/Models.cs": "d47633b7aa9ad51ec91285b1ec1c81f61fcf0512e834b1974a2038be43cf2b34",
+    "Assets/Scripts/Presentation/MeshFactory.cs": "0ea90551f9ba716aa8f92f05b7d313e3877450939c212feb8701946ffa840c67",
+    "Assets/Scripts/Presentation/ModelFactory.cs": "c3807b081b22d7797318e10db7885c5f10cfefe2984a688ebca02023a5cb11ed",
+    "Assets/Scripts/Runtime/GameController.cs": "53df4380229eceb07f8b18088f446a07714b9b7235339742ee38c25efdcb8c21",
+    "Assets/Scripts/Runtime/ShipPointer.cs": "03ff3e0919f261a09679603a4471ee1b17bac0124bc722bcb782def981c9b6fb",
+    "Assets/Scripts/UI/HudGlyph.cs": "d2327e289cc7dcd76dc6326db9e13a3d7da5723a1a8719c2f33b5ba9981da195",
+    "Assets/Scripts/UI/PixelHud.cs": "9975b731885df1d7520713df27fbae0b8ef04a3e08aced6c2e1317683e996113"
+  },
+  "orientationReview": {
+    "cameraSide": "negative world Z",
+    "logicalColumns": "positive X projects screen-right",
+    "logicalRows": "negative world Z projects screen-down",
+    "binOpening": "negative local Z faces camera",
+    "brownBackWall": "positive local Z behind stored gear",
+    "charcoalPartition": "negative X remains screen-left",
+    "blockCenterHeight": 0.43,
+    "blockHeight": 0.86,
+    "frontAndTopFaces": "physical mesh; visual appearance still requires Unity playtest",
+    "weaponDirection": "keeps full 3D aim including downward shots"
+  }
+}

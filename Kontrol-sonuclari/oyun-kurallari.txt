@@ -1,0 +1,7 @@
+PASS reference 1: 380 cells, 14 UFOs, 15.35 simulation seconds.
+PASS reference 2: 320 cells, 11 UFOs, 14.10 simulation seconds.
+PASS reference 3: 240 cells, 14 UFOs, 18.83 simulation seconds.
+PASS reference 4: 397 cells, 21 UFOs, 22.00 simulation seconds.
+PASS reference 5: 520 cells, 15 UFOs, 67.20 simulation seconds.
+PASS reference 6: 328 cells, 15 UFOs, 21.15 simulation seconds.
+PASS: 7177 C# core checks, all six reference levels solved.
